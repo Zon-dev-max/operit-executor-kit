@@ -6,6 +6,7 @@
 
 | 想要什么 | 怎么拿 |
 |---|---|
+| **最新版下载页（推荐）** | [Releases → v1.0](https://github.com/Zon-dev-max/operit-executor-kit/releases/latest)：角色卡 `.json` 与三技能 `zip` 都在这里，点附件名即下载 |
 | **全部文件（zip）** | 点这里直接下载 → [operit-executor-kit-main.zip](https://github.com/Zon-dev-max/operit-executor-kit/archive/refs/heads/main.zip) |
 | **只要角色卡** | 打开 [通用执行器-v3.7.json](https://github.com/Zon-dev-max/operit-executor-kit/blob/main/character-cards/通用执行器-v3.7.json)，点右上角 **Download raw file** → 保存为 `.json` 文件 |
 | 只要某个技能 | 进 `skills/<技能名>/` 目录，点 `SKILL.md` 后同样点 **Download raw file** |
