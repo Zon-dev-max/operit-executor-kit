@@ -2,6 +2,16 @@
 
 面向 [Operit](https://github.com/AAswordman/Operit) 的通用执行器角色卡 + 三个配套技能。让 AI 按「规划 → 执行 → 验证 → 归档」的流程干活，交付可验证、可回滚的结果。
 
+## 一键下载
+
+| 想要什么 | 怎么拿 |
+|---|---|
+| **全部文件（zip）** | 点这里直接下载 → [operit-executor-kit-main.zip](https://github.com/Zon-dev-max/operit-executor-kit/archive/refs/heads/main.zip) |
+| **只要角色卡** | 打开 [通用执行器-v3.7.json](https://github.com/Zon-dev-max/operit-executor-kit/blob/main/character-cards/通用执行器-v3.7.json)，点右上角 **Download raw file** → 保存为 `.json` 文件 |
+| 只要某个技能 | 进 `skills/<技能名>/` 目录，点 `SKILL.md` 后同样点 **Download raw file** |
+
+> 不熟悉 GitHub 的话：仓库首页点绿色 **Code → Download ZIP**，解压后 `character-cards/通用执行器-v3.7.json` 就是角色卡文件。
+
 ## 仓库内容
 
 | 文件 | 用途 |
