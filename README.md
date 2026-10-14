@@ -8,26 +8,26 @@
 
 | 想要什么 | 怎么拿 |
 |---|---|
-| **最新版下载页（推荐）** | [Releases → v1.0](https://github.com/Zon-dev-max/operit-executor-kit/releases/latest)：角色卡 `.json` 与三技能 `zip` 都在这里，点附件名即下载 |
+| **最新版（推荐）** | 直接用仓库内文件：角色卡在 `character-cards/`、三技能在 `skills/`（Releases 中的 v1.0 为历史快照，内含 v3.7 角色卡） |
 | **全部文件（zip）** | 点这里直接下载 → [operit-executor-kit-main.zip](https://github.com/Zon-dev-max/operit-executor-kit/archive/refs/heads/main.zip) |
-| **只要角色卡** | 打开 [通用执行器-v3.7.json](https://github.com/Zon-dev-max/operit-executor-kit/blob/main/character-cards/通用执行器-v3.7.json)，点右上角 **Download raw file** → 保存为 `.json` 文件 |
+| **只要角色卡** | 打开 [通用执行器-v4.4.json](https://github.com/Zon-dev-max/operit-executor-kit/blob/main/character-cards/通用执行器-v4.4.json)，点右上角 **Download raw file** → 保存为 `.json` 文件 |
 | 只要某个技能 | 进 `skills/<技能名>/` 目录，点 `SKILL.md` 后同样点 **Download raw file** |
 
-> 不熟悉 GitHub 的话：仓库首页点绿色 **Code → Download ZIP**，解压后 `character-cards/通用执行器-v3.7.json` 就是角色卡文件。
+> 不熟悉 GitHub 的话：仓库首页点绿色 **Code → Download ZIP**，解压后 `character-cards/通用执行器-v4.4.json` 就是角色卡文件。
 
 ## 仓库内容
 
 | 文件 | 用途 |
 |---|---|
-| `character-cards/通用执行器-v3.7.json` | 角色卡：铁律、工作流主链、输出格式、敏感任务边界 |
-| `skills/通用执行器·细则/SKILL.md` | 细则分片：三验模板、交接单模板、回滚凭据、动作分级 |
+| `character-cards/通用执行器-v4.4.json` | 角色卡：铁律、工作流主链、输出格式、敏感任务边界 |
+| `skills/通用执行器·细则/SKILL.md` | 细则分片：敏感任务授权与范围块字段格式、动作七级分级 |
 | `skills/任务五步走·落盘规范/SKILL.md` | 单项目内部流程：复用→Refine→Plan→Act→沉淀 + 三验 |
 | `skills/工作区管理·索引与归档规范/SKILL.md` | 多项目组织：active/done/archive 分层、INDEX 索引、子任务截断 |
 
 ## 导入方法
 
 ### 角色卡
-1. 下载 `character-cards/通用执行器-v3.7.json`
+1. 下载 `character-cards/通用执行器-v4.4.json`
 2. Operit → 角色卡 → 导入 → 选择该文件
 
 ### 技能（三个分别导入）
